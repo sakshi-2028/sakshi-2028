@@ -33,7 +33,8 @@
 ```yaml
 name:        Sakshi Upadhyay
 role:        AWS DevOps Engineer
-location:    🌍 India
+company:     Weltretter Project & Consultants Pvt. Ltd.
+location:    🌍 Mumbai, India
 focus:
   - ☁️  Cloud Infrastructure (AWS)
   - 🐳  Containerization (Docker, K8s)
@@ -164,7 +165,21 @@ philosophy:
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
+
+### 🔭 AstroTalks
+> Full-stack AI Vedic astrology chat app — Docker, Caddy, AWS EC2 + GitHub Actions CI/CD.
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white" />
+</p>
+
+[**→ View Repo**](https://github.com/sakshi-2028/AstroTalks)
+
+</td>
+<td width="25%" valign="top">
 
 ### ☁️ 100 Days of AWS
 > Day-by-day AWS learning journey — EC2, VPC, S3, EBS, and beyond.
@@ -177,7 +192,7 @@ philosophy:
 [**→ View Repo**](https://github.com/sakshi-2028/100_Days_of_AWS)
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### 🐳 Docker — Notes
 > Hands-on Docker cheat-sheet — commands, concepts, Dockerfile, Compose.
@@ -190,7 +205,7 @@ philosophy:
 [**→ View Repo**](https://github.com/sakshi-2028/Docker)
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### ☸️ Kubernetes — Notes
 > Architecture deep-dive — control plane, worker nodes, Pods, kubectl.
@@ -205,7 +220,7 @@ philosophy:
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### ⚙️ Practice GitHub Actions
 > React + Vite playground for learning CI/CD workflows.
@@ -218,7 +233,7 @@ philosophy:
 [**→ View Repo**](https://github.com/sakshi-2028/practice_github_action)
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### 🎬 OTT Streaming App
 > Full-featured OTT app — movies, series, reels, downloads, BLoC.
@@ -231,7 +246,7 @@ philosophy:
 [**→ View Repo**](https://github.com/sakshi-2028/ott_app)
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### 💊 Clinic Cash Flow
 > Patient payment tracker with charts, Firebase, and clean UI.
@@ -242,6 +257,19 @@ philosophy:
 </p>
 
 [**→ View Repo**](https://github.com/sakshi-2028/Clinic-Cash-Flow)
+
+</td>
+<td width="25%" valign="top">
+
+### 🐍 Snake Game
+> Classic Snake in pure Flutter — zero deps, runs on Android, iOS, Web & Desktop.
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+</p>
+
+[**→ View Repo**](https://github.com/sakshi-2028/snak_game_flutter)
 
 </td>
 </tr>
@@ -274,14 +302,9 @@ philosophy:
   <a href="https://github.com/sakshi-2028">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!--
-  <a href="https://linkedin.com/in/YOUR-HANDLE">
+  <a href="https://www.linkedin.com/in/sakshi-upadhyay-05160b228">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR-HANDLE">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  -->
 </p>
 
 ---
