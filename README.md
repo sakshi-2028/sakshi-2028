@@ -1,331 +1,120 @@
-<!-- ════════════════════════════════════════════════════════════ -->
+<div align="center">
 
-<!--                       HERO BANNER                            -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:9333EA,100:C084FC&height=220&section=header&text=Sakshi%20Upadhyay&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20CI%2FCD&descAlignY=58&descSize=18" alt="Sakshi Upadhyay banner" />
 
-<!-- ════════════════════════════════════════════════════════════ -->
+### Building reliable cloud infrastructure through automation
 
-<a href="https://github.com/sakshi-2028">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:232F3E&height=240&section=header&text=Sakshi%20Upadhyay&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AWS%20DevOps%20Engineer%20%E2%98%81%EF%B8%8F%20%C2%B7%20Containers%20%F0%9F%90%B3%20%C2%B7%20CI%2FCD%20%E2%9A%99%EF%B8%8F&descAlignY=60&descAlign=50&descSize=18" alt="banner" />
-</a>
+[![Clover Infotech](https://img.shields.io/badge/DevOps%20Engineer-Clover%20Infotech-7C3AED?style=for-the-badge)](https://www.cloverinfotech.com/)
+![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-A855F7?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Mumbai%2C%20India-C084FC?style=for-the-badge)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-upadhyay-05160b228)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashiupadhyay33@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=sakshi-2028&label=Profile%20Views&color=7C3AED&style=for-the-badge)](https://github.com/sakshi-2028)
+
+</div>
+
+## 👩‍💻 About Me
+
+I'm a **DevOps Engineer at Clover Infotech** with **3+ years of experience** working across cloud infrastructure, containerization, CI/CD automation, and production operations.
+
+- ☁️ Building and managing infrastructure on **AWS**
+- 🐳 Containerizing applications with **Docker**
+- ☸️ Deploying and operating workloads on **Kubernetes**
+- 🔁 Automating delivery using **GitHub Actions and Jenkins**
+- 🏗️ Provisioning infrastructure with **Terraform and Ansible**
+- 📊 Monitoring systems using **Prometheus, Grafana, and CloudWatch**
+- 🐧 Troubleshooting production environments on **Linux**
+
+> I enjoy turning manual deployment processes into reliable, repeatable automation.
+
+## 🛠️ Technical Skills
+
+| Area | Technologies |
+|:--|:--|
+| **Cloud** | AWS — EC2, S3, VPC, IAM, EKS, RDS, Route 53, CloudFront, CloudWatch |
+| **Containers** | Docker, Docker Compose, Kubernetes, Helm |
+| **CI/CD** | GitHub Actions, Jenkins, Argo CD |
+| **Infrastructure as Code** | Terraform, Ansible |
+| **Observability** | Prometheus, Grafana, AWS CloudWatch |
+| **Systems & Networking** | Linux, Bash, Nginx, Caddy, Git |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
 
 <p align="center">
-  <a href="https://github.com/sakshi-2028">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF9900&center=true&vCenter=true&width=620&lines=AWS+DevOps+Engineer+%E2%98%81%EF%B8%8F;Building+CI%2FCD+pipelines+%E2%9A%99%EF%B8%8F;Containerizing+with+Docker+%26+K8s+%F0%9F%90%B3;Infrastructure+as+Code+%F0%9F%8F%97%EF%B8%8F;Automating+all+the+things+%F0%9F%A4%96" alt="Typing SVG" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,githubactions,jenkins,linux,bash,git,prometheus,grafana,nginx,postgres,mysql,redis&perline=8" alt="DevOps technology icons" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakshi-2028&label=Profile%20views&color=FF9900&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/sakshi-2028?label=Followers&style=for-the-badge&color=FF9900&labelColor=232F3E" alt="Followers" />
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=for-the-badge&labelColor=232F3E" alt="Open to work" />
-</p>
-
-<!-- ════════════════════════════════════════════════════════════ -->
-
-<!--                       ABOUT ME                                -->
-
-<!-- ════════════════════════════════════════════════════════════ -->
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About Me
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td valign="top" width="62%">
+<td width="50%" valign="top">
 
-name:        Sakshi Upadhyay
-role:        AWS DevOps Engineer
-company:     Weltretter Project & Consultants Pvt. Ltd.
-location:    🌍 Mumbai, India
-focus:
-  - ☁️  Cloud Infrastructure (AWS)
-  - 🐳  Containerization (Docker, K8s)
-  - ⚙️  CI/CD Automation
-  - 🏗️  Infrastructure as Code
-currently:
-  - 📚  100 Days of AWS — in progress
-  - ☸️  Hands-on Kubernetes
-  - 🔧  GitHub Actions pipelines
-philosophy:
-  - "Automate everything that breathes"
-  - "Infrastructure as code, not as clicks"
-  - "Cattle, not pets 🐮"
+### [☸️ DevBoard](https://github.com/sakshi-2028/devboard)
+
+A three-tier application with a **React frontend, Go API, and PostgreSQL database**, packaged for both Docker Compose and Kubernetes.
+
+**Highlights:** Docker · Kubernetes · Kind · React · Go · PostgreSQL
 
 </td>
-<td valign="top" width="38%">
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%" alt="devops gif" />
-</td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-<!-- ════════════════════════════════════════════════════════════ -->
+### [🔮 AstroTalks](https://github.com/sakshi-2028/AstroTalks)
 
-<!--                       TECH STACK                              -->
+A full-stack AI application containerized with Docker and deployed on **AWS EC2**, with HTTPS through Caddy and an automated GitHub Actions pipeline.
 
-<!-- ════════════════════════════════════════════════════════════ -->
-
-🧰 My DevOps Toolbox
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,bash,git,github,githubactions,terraform,ansible,nginx,jenkins,prometheus,grafana,vim&perline=8" alt="DevOps Tools" />
-  </a>
-</p>
-
-💻 Languages & Frameworks
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,react,vite,flutter,dart,nodejs&perline=9" alt="Languages" />
-  </a>
-</p>
-
-🗄️ Databases & Cloud Services
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb,postgres,redis&perline=5" alt="Databases" />
-  </a>
-</p>
-
-🛠️ IDEs & Editors
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,figma&perline=4" alt="Tools" />
-  </a>
-</p>
-
-<!-- ════════════════════════════════════════════════════════════ -->
-
-<!--                       GITHUB STATS                            -->
-
-<!-- ════════════════════════════════════════════════════════════ -->
-
-📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakshi-2028&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF9900&icon_color=FF9900" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-2028&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF9900&hide=html,css&langs_count=8" alt="languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-2028&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF9900&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshi-2028&theme=tokyonight" alt="profile summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakshi-2028&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakshi-2028&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakshi-2028&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakshi-2028&theme=tokyonight&utcOffset=5.5" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakshi-2028&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
-</p>
-
-<!-- ════════════════════════════════════════════════════════════ -->
-
-<!--                       SNAKE ANIMATION                         -->
-
-<!-- ════════════════════════════════════════════════════════════ -->
-
-🐍 Watch the Snake Eat My Contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sakshi-2028/sakshi-2028/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sakshi-2028/sakshi-2028/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/sakshi-2028/sakshi-2028/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<!-- ════════════════════════════════════════════════════════════ -->
-
-<!--                       ACTIVITY GRAPH                          -->
-
-<!-- ════════════════════════════════════════════════════════════ -->
-
-📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshi-2028&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF9900&line=FF9900&point=FFFFFF&area=true&area_color=FF9900" alt="activity graph" />
-</p>
-
-<!-- ════════════════════════════════════════════════════════════ -->
-
-<!--                       FEATURED PROJECTS                       -->
-
-<!-- ════════════════════════════════════════════════════════════ -->
-
-📌 Featured Projects
-
-<table>
-<tr>
-<td width="25%" valign="top">
-
-🔭 AstroTalks
-
-Full-stack AI Vedic astrology chat app — Docker, Caddy, AWS EC2 + GitHub Actions CI/CD.
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white" />
-</p>
-
-→ View Repo
-
-</td>
-<td width="25%" valign="top">
-
-☁️ 100 Days of AWS
-
-Day-by-day AWS learning journey — EC2, VPC, S3, EBS, and beyond.
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CLI-success?style=flat" />
-</p>
-
-→ View Repo
-
-</td>
-<td width="25%" valign="top">
-
-🐳 Docker — Notes
-
-Hands-on Docker cheat-sheet — commands, concepts, Dockerfile, Compose.
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Compose-blue?style=flat" />
-</p>
-
-→ View Repo
-
-</td>
-<td width="25%" valign="top">
-
-☸️ Kubernetes — Notes
-
-Architecture deep-dive — control plane, worker nodes, Pods, kubectl.
-
-<p>
-  <img src="https://img.shields.io/badge/K8s-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Minikube-orange?style=flat" />
-</p>
-
-→ View Repo
+**Highlights:** AWS · Docker · GitHub Actions · Caddy · React · Node.js
 
 </td>
 </tr>
 <tr>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
-⚙️ Practice GitHub Actions
+### [🏗️ TerraWeek](https://github.com/sakshi-2028/TerraWeek)
 
-React + Vite playground for learning CI/CD workflows.
+Hands-on Terraform work covering variables, AWS infrastructure, remote state, reusable modules, workspaces, testing, and security scanning.
 
-<p>
-  <img src="https://img.shields.io/badge/Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
-</p>
-
-→ View Repo
+**Highlights:** Terraform · AWS · IaC · Modules · Trivy
 
 </td>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
-🎬 OTT Streaming App
+### [💜 90DaysOfDevOps](https://github.com/sakshi-2028/90DaysOfDevOps)
 
-Full-featured OTT app — movies, series, reels, downloads, BLoC.
+A structured learning journey with practical tasks, notes, and projects across the essential DevOps toolchain.
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/BLoC-blueviolet?style=flat" />
-</p>
-
-→ View Repo
-
-</td>
-<td width="25%" valign="top">
-
-💊 Clinic Cash Flow
-
-Patient payment tracker with charts, Firebase, and clean UI.
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-</p>
-
-→ View Repo
-
-</td>
-<td width="25%" valign="top">
-
-🐍 Snake Game
-
-Classic Snake in pure Flutter — zero deps, runs on Android, iOS, Web & Desktop.
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-</p>
-
-→ View Repo
+**Highlights:** Linux · Git · Docker · Kubernetes · CI/CD · Cloud
 
 </td>
 </tr>
 </table>
 
-<!-- ════════════════════════════════════════════════════════════ -->
+## 📊 GitHub Overview
 
-<!--                       QUOTE                                   -->
+<div align="center">
 
-<!-- ════════════════════════════════════════════════════════════ -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sakshi-2028&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C084FC&text_color=E5E7EB&ring_color=7C3AED" alt="Sakshi's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-2028&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB&langs_count=6" alt="Most used languages" />
 
-💭 Dev Quote of the Day
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=sakshi-2028&bg_color=0D1117&color=C084FC&line=9333EA&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution graph" />
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
-</p>
+</div>
 
-<!-- ════════════════════════════════════════════════════════════ -->
+## 🎯 Current Focus
 
-<!--                       CONNECT                                 -->
+- Designing scalable workloads on AWS and Kubernetes
+- Improving secure, reusable CI/CD pipelines
+- Building Infrastructure as Code with Terraform
+- Strengthening monitoring and production troubleshooting
 
-<!-- ════════════════════════════════════════════════════════════ -->
+<div align="center">
 
-🤝 Let's Connect
+### Let's build reliable systems together
 
-<p align="center">
-  <a href="mailto:aashiupadhyay33@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/sakshi-2028">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sakshi-upadhyay-05160b228">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sakshi%20Upadhyay-7C3AED?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-upadhyay-05160b228)
+[![GitHub](https://img.shields.io/badge/GitHub-sakshi--2028-A855F7?style=flat-square&logo=github&logoColor=white)](https://github.com/sakshi-2028)
+[![Gmail](https://img.shields.io/badge/Gmail-aashiupadhyay33-C084FC?style=flat-square&logo=gmail&logoColor=white)](mailto:aashiupadhyay33@gmail.com)
 
-<!-- ════════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:9333EA,100:6D28D9&height=110&section=footer" alt="Purple footer" />
 
-<!--                       FOOTER WAVE                             -->
-
-<!-- ════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <i>"Automate everything. Document everything. Then automate the documentation."</i>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=120&section=footer" />
+</div>
